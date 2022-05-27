@@ -1,3 +1,4 @@
 Hector Misnaza
 Contenido para el archivo Pokemon_3
 sergio aciar cambio este archivo
+comentarios 3 para prueba nuevo conflicto Participante B
