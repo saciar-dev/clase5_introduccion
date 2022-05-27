@@ -1,4 +1,7 @@
 Hector Misnaza
 Contenido para el archivo Pokemon_2
+<<<<<<< HEAD
 Nuevo contenido para prueba Hector Misnaza
 Sergio modifico algo
+=======
+>>>>>>> parent of a06ff47 (Update pokemon2 Prueba)
